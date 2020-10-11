@@ -19,7 +19,7 @@ public class Rockpapersizzors {
     public static void main(String[] args) {
         // TODO code application logic here
        String[] RPS = {"Rock", "Paper","Sizzors"};
-       System.out.println(RPS[1]);
+      // System.out.println(RPS[1]);
        System.out.println("Type Rock Paper or Sizzors:");
        
        Scanner newScan = new Scanner(System.in);
